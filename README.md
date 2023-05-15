@@ -40,3 +40,9 @@ $ node run dev
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 ```
+
+### 🎲 Executar os testes
+```bash
+$ npm test
+
+```
