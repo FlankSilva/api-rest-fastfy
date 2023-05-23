@@ -30,7 +30,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 $ git clone https://github.com/FlankSilva/api-rest-fastfy
 
 # Instale as dependências
-$ node install
+$ npm install
 
 # Criando as tabelas do banco
 $ npm run knex -- migrate:latest
