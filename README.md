@@ -36,7 +36,7 @@ $ npm install
 $ npm run knex -- migrate:latest
 
 # Execute a aplicação em modo de desenvolvimento
-$ node run dev
+$ npm run dev
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 ```
